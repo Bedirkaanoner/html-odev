@@ -1,0 +1,44 @@
+.baslik {
+    display: flex;
+    height: 100px;
+    background-color: crimson;
+    align-items: center;
+    justify-content: center;
+}
+h1 {
+    color: blue;
+
+}
+
+.govde{
+    display: flex;
+    flex-direction: row;
+}
+.icerik{
+    display: flex;
+    flex-direction: column;
+    margin-right: 20px;
+
+}
+.siniflar{
+    background-color: chartreuse;
+    margin-right: 20px;
+
+}
+.egitimciler{
+    background-color: aqua;
+    margin-right: 20px;
+
+}
+.araclar{
+    background-color: rgb(103, 30, 162);
+    margin-right: 20px;
+
+}
+.son{
+    display: flex;
+    height: 100px;
+    background-color: brown;
+    align-items: center;
+    justify-content: center;
+}
